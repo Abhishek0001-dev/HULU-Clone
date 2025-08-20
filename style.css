@@ -110,7 +110,7 @@ h4 {
 /* Header */
 .header {
   height: 530px;
-  background: linear-gradient(to bottom, rgba(0,0,0,0.6), transparent), url(img/header.jpg) no-repeat center center / cover;
+  background: linear-gradient(to bottom, rgba(0,0,0,0.6), transparent), url('img/header.jpg') no-repeat center center / cover;
   background-size: 105%;
 }
 
@@ -275,16 +275,16 @@ h4 {
 }
 
 .categories .cover-1 {
-  background: url('..img/cover-1.jpg') no-repeat center center / cover;
+  background: url('img/cover-1.jpg') no-repeat center center / cover;
 }
 .categories .cover-2 {
-  background: url('..img/cover-2.jpg') no-repeat center center / cover;
+  background: url('img/cover-2.jpg') no-repeat center center / cover;
 }
 .categories .cover-3 {
-  background: url('..img/cover-3.jpg') no-repeat center center / cover;
+  background: url('img/cover-3.jpg') no-repeat center center / cover;
 }
 .categories .cover-4 {
-  background: url('..img/cover-4.jpg') no-repeat center center / cover;
+  background: url('img/cover-4.jpg') no-repeat center center / cover;
 }
 
 /* Live */
@@ -659,6 +659,7 @@ h4 {
   }
 
 }
+
 
 
 
